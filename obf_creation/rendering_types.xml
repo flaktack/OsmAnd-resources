@@ -394,11 +394,113 @@
 	</category>
 
 	<category name="osmc">
-		<type tag="osmc_symbol_red"    nameTags="osmc_symbol_white_red_bar_name,osmc_symbol_red_white_bar_name"    value="" minzoom="12"/>
-		<type tag="osmc_symbol_yellow" nameTags="osmc_symbol_white_yellow_bar_name,osmc_symbol_yellow_diamond_name" value="" minzoom="12"/>
-		<type tag="osmc_symbol_green"  nameTags="osmc_symbol_white_green_bar_name,osmc_symbol_white_green_backslash_name"  value="" minzoom="12"/>
-		<type tag="osmc_symbol_blue"   nameTags="osmc_symbol_white_blue_bar_name"   value="" minzoom="12"/>
-		<type tag="osmc_symbol_black"   nameTags="osmc_symbol_white_black_bar_name"   value="" minzoom="12"/>
+		<type tag="osmc_symbol_yellow" value="" minzoom="12"/>
+		<type tag="osmc_symbol_red"    value="" minzoom="12"/>
+		<type tag="osmc_symbol_green"  value="" minzoom="12"/>
+		<type tag="osmc_symbol_blue"   value="" minzoom="12"/>
+		<type tag="osmc_symbol_purple" value="" minzoom="12"/>
+		<type tag="osmc_symbol_black"  value="" minzoom="12"/>
+		
+		<type tag="osmc_symbol_red_white_bar_shield" nameTags="osmc_symbol_red_white_bar_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_black_bar_shield" nameTags="osmc_symbol_white_black_bar_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_arch_shield" nameTags="osmc_symbol_white_blue_arch_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_backslash_shield" nameTags="osmc_symbol_white_blue_backslash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_bar_shield" nameTags="osmc_symbol_white_blue_bar_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_bicycle_shield" nameTags="osmc_symbol_white_blue_bicycle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_chapel_shield" nameTags="osmc_symbol_white_blue_chapel_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_circle_arrow_shield" nameTags="osmc_symbol_white_blue_circle_arrow_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_cross_shield" nameTags="osmc_symbol_white_blue_cross_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_diamond_shield" nameTags="osmc_symbol_white_blue_diamond_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_dot_circle_shield" nameTags="osmc_symbol_white_blue_dot_circle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_dot_shield" nameTags="osmc_symbol_white_blue_dot_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_feather_shield" nameTags="osmc_symbol_white_blue_feather_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_L_shield" nameTags="osmc_symbol_white_blue_L_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_m_shield" nameTags="osmc_symbol_white_blue_m_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_mz2_shield" nameTags="osmc_symbol_white_blue_mz2_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_mz_shield" nameTags="osmc_symbol_white_blue_mz_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_rectangle_shield" nameTags="osmc_symbol_white_blue_rectangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_shell_modern_shield" nameTags="osmc_symbol_white_blue_shell_modern_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_slash_shield" nameTags="osmc_symbol_white_blue_slash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_stamp_shield" nameTags="osmc_symbol_white_blue_stamp_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_tomb_shield" nameTags="osmc_symbol_white_blue_tomb_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_triangle_shield" nameTags="osmc_symbol_white_blue_triangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_T_shield" nameTags="osmc_symbol_white_blue_T_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_wine_glass_shield" nameTags="osmc_symbol_white_blue_wine_glass_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_blue_x_shield" nameTags="osmc_symbol_white_blue_x_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_arch_shield" nameTags="osmc_symbol_white_green_arch_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_backslash_shield" nameTags="osmc_symbol_white_green_backslash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_bar_shield" nameTags="osmc_symbol_white_green_bar_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_bicycle_shield" nameTags="osmc_symbol_white_green_bicycle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_chapel_shield" nameTags="osmc_symbol_white_green_chapel_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_circle_arrow_shield" nameTags="osmc_symbol_white_green_circle_arrow_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_cross_shield" nameTags="osmc_symbol_white_green_cross_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_diamond_shield" nameTags="osmc_symbol_white_green_diamond_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_dot_circle_shield" nameTags="osmc_symbol_white_green_dot_circle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_dot_shield" nameTags="osmc_symbol_white_green_dot_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_feather_shield" nameTags="osmc_symbol_white_green_feather_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_L_shield" nameTags="osmc_symbol_white_green_L_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_m_shield" nameTags="osmc_symbol_white_green_m_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_mz2_shield" nameTags="osmc_symbol_white_green_mz2_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_mz_shield" nameTags="osmc_symbol_white_green_mz_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_rectangle_shield" nameTags="osmc_symbol_white_green_rectangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_shell_modern_shield" nameTags="osmc_symbol_white_green_shell_modern_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_slash_shield" nameTags="osmc_symbol_white_green_slash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_stamp_shield" nameTags="osmc_symbol_white_green_stamp_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_tomb_shield" nameTags="osmc_symbol_white_green_tomb_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_triangle_shield" nameTags="osmc_symbol_white_green_triangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_T_shield" nameTags="osmc_symbol_white_green_T_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_wine_glass_shield" nameTags="osmc_symbol_white_green_wine_glass_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_green_x_shield" nameTags="osmc_symbol_white_green_x_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_mine_shield" nameTags="osmc_symbol_white_mine_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_purple_m_shield" nameTags="osmc_symbol_white_purple_m_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_arch_shield" nameTags="osmc_symbol_white_red_arch_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_backslash_shield" nameTags="osmc_symbol_white_red_backslash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_bar_shield" nameTags="osmc_symbol_white_red_bar_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_bicycle_shield" nameTags="osmc_symbol_white_red_bicycle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_chapel_shield" nameTags="osmc_symbol_white_red_chapel_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_circle_arrow_shield" nameTags="osmc_symbol_white_red_circle_arrow_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_cross_shield" nameTags="osmc_symbol_white_red_cross_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_diamond_shield" nameTags="osmc_symbol_white_red_diamond_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_dot_circle_shield" nameTags="osmc_symbol_white_red_dot_circle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_dot_shield" nameTags="osmc_symbol_white_red_dot_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_feather_shield" nameTags="osmc_symbol_white_red_feather_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_L_shield" nameTags="osmc_symbol_white_red_L_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_m_shield" nameTags="osmc_symbol_white_red_m_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_mz2_shield" nameTags="osmc_symbol_white_red_mz2_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_mz_shield" nameTags="osmc_symbol_white_red_mz_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_rectangle_shield" nameTags="osmc_symbol_white_red_rectangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_shell_modern_shield" nameTags="osmc_symbol_white_red_shell_modern_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_slash_shield" nameTags="osmc_symbol_white_red_slash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_stamp_shield" nameTags="osmc_symbol_white_red_stamp_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_tomb_shield" nameTags="osmc_symbol_white_red_tomb_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_triangle_shield" nameTags="osmc_symbol_white_red_triangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_T_shield" nameTags="osmc_symbol_white_red_T_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_wine_glass_shield" nameTags="osmc_symbol_white_red_wine_glass_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_red_x_shield" nameTags="osmc_symbol_white_red_x_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_arch_shield" nameTags="osmc_symbol_white_yellow_arch_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_backslash_shield" nameTags="osmc_symbol_white_yellow_backslash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_bar_shield" nameTags="osmc_symbol_white_yellow_bar_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_bicycle_shield" nameTags="osmc_symbol_white_yellow_bicycle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_chapel_shield" nameTags="osmc_symbol_white_yellow_chapel_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_circle_arrow_shield" nameTags="osmc_symbol_white_yellow_circle_arrow_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_cross_shield" nameTags="osmc_symbol_white_yellow_cross_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_diamond_shield" nameTags="osmc_symbol_white_yellow_diamond_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_dot_circle_shield" nameTags="osmc_symbol_white_yellow_dot_circle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_dot_shield" nameTags="osmc_symbol_white_yellow_dot_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_feather_shield" nameTags="osmc_symbol_white_yellow_feather_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_L_shield" nameTags="osmc_symbol_white_yellow_L_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_m_shield" nameTags="osmc_symbol_white_yellow_m_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_mz2_shield" nameTags="osmc_symbol_white_yellow_mz2_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_mz_shield" nameTags="osmc_symbol_white_yellow_mz_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_rectangle_shield" nameTags="osmc_symbol_white_yellow_rectangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_shell_modern_shield" nameTags="osmc_symbol_white_yellow_shell_modern_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_slash_shield" nameTags="osmc_symbol_white_yellow_slash_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_stamp_shield" nameTags="osmc_symbol_white_yellow_stamp_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_tomb_shield" nameTags="osmc_symbol_white_yellow_tomb_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_triangle_shield" nameTags="osmc_symbol_white_yellow_triangle_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_T_shield" nameTags="osmc_symbol_white_yellow_T_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_wine_glass_shield" nameTags="osmc_symbol_white_yellow_wine_glass_name" value="" minzoom="12" />
+		<type tag="osmc_symbol_white_yellow_x_shield" nameTags="osmc_symbol_white_yellow_x_name" value="" minzoom="12" />
 	</category>
 
 	<!-- For the purpose of rendering the color-coded trails using the tag "colour" or "color", when they are not used tags "osmc_symbol" -->

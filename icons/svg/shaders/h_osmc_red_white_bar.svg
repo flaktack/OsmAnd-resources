@@ -1,8 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="9px" viewBox="0 0 16 9" enable-background="new" xml:space="preserve">
-<rect x="0" y="0" fill="#C81111" width="16" height="9"/>
-<rect x="0" y="3" fill="#ffffff" width="16" height="3"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="13"
+   id="svg3891"
+   version="1.1"
+   inkscape:version="0.48+devel r13511"
+   viewBox="0 0 8.8570004 7.4400002"
+   sodipodi:docname="osmc_red_white_bar.svg">
+  <defs
+     id="defs3893" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="1.2445251"
+     inkscape:cy="3.9885714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
+     inkscape:window-width="959"
+     inkscape:window-height="1014"
+     inkscape:window-x="960"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1044.9222)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 0.17687493,1045.0991 8.50374997,0 0,7.0862 -8.50374997,0 0,-7.0862 z"
+       style="fill:#ed1c24;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path6112" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 0.42437493,1047.4616 8.00749997,0 0,2.3625 -8.00749997,0 0,-2.3625 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path6368" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#231f20;stroke-width:0.35374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.17687493,1052.1853 8.50374997,0 0,-7.0862 -8.50374997,0 0,7.0862 z"
+       id="path5793" />
+  </g>
 </svg>
